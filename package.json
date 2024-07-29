@@ -8,7 +8,7 @@
   "scripts": {
     "build": "tsup"
   },
-  "repository": "https://github.com/codewave-ui/core",
+  "repository": "https://github.com/codewave-ui/standard-console-reporter",
   "keywords": [
     "frontend",
     "test",
